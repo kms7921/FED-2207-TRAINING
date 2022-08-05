@@ -8,3 +8,16 @@
     </header>
 </article>
 </head>
+
+<body>
+<aside>
+<h2> Table of Contents</h2>
+
+<ol type="1">
+    <li>Shoe Collection </li>
+    <li>Roller Skatings</li>
+    <li>Boxing</li>
+    <li>Connect With Me</li>
+</ol>
+</aside>
+</body>
