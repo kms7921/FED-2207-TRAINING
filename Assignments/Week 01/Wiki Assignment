@@ -14,10 +14,96 @@
 <h2> Table of Contents</h2>
 
 <ol type="1">
-    <li>Shoe Collection </li>
-    <li>Roller Skatings</li>
-    <li>Boxing</li>
-    <li>Connect With Me</li>
+    <li><a href="#Shoe Collection">Shoe Collection</li>
+    <li><a href="#Roller Skating">Roller Skating</a></li>
+    <li><a href="#Boxing">Boxing</a></li>
+    <li><a href="#More About Me">More About Me</a></li>
+    <li><a href="Connect With Me">Connect With Me</a></li>
+    <li><a href="Page End">Page End</a></li>
 </ol>
 </aside>
 </body>
+
+<div class="row">
+    <div class="column">
+      <img src="Shoe_Collection.jpg" alt="Shoe Collection" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="Roller_Skates.jpg" alt="Roller skates" style="width:100%">
+    </div>
+    <div class="column">
+      <img src=" Boxing.jpg" alt="Boxing" style="width:100%">
+    </div>
+  </div>
+  #Save changes
+  <section>
+    <h1 id="Shoe Collection">Shoe Collecting Origin</h1>
+    <p>I began collecting shoes my freshmen year of High School. My love for this hobby came from dressing with versatility. I would often times go in my moms closet as a adolescent and walk in her heels and potato shoes</p>
+    </section>
+    
+    <section>
+    <h2>Shoe Interest</h2>
+    <p>I feel as though shoes can make or break your outfit and mood. The style of a shoe can determine your confidence you walk in. Thus far I have made trades, sales, and have even bought. My goal right now is to buy a pair of heels with the same color ways I have in sneakers. My favorite tennis shoe brands vary by comfortability; The most comfortable shoes I have come from Yeezy who is partenered with <a href="https://www.adidas.com/us/yeezy">Adidas.</a>I also have tons of <a href="https://www.nike.com">Nike</a>for its versatility in comfort and fashion.</p>
+    </section>
+    --Save changes
+    <section>
+        <h1 id="Roller Skating"> Roller Skating</h1>
+        <p>Roller Skating is my go to activity when I want to release and have fun. Nonetheless, its not just a solo activity, its one my friends and family enojoy doing too. I have also been able to create life long friendships from meeting people with the same interest of skating as me, and we often times meet up to skate.Two of my favorite Roller Rinks are <a href="https://www.cascadeskating.com">Cascade</a> and <a href="https://www.metrofuncenter.com">Metro Fun Center</a> which also offers Bowling and Billards for extra activities.</p>
+        </section>
+        
+        <section>
+        <h2>Skating Interest</h2>
+        <p>There is a rich history of Roller Skating Rinks for African Americans. I learned how to skate the moment I could walk or even run. My dad used to take myself, my brother, and cousins to the skating rink almost every other weekend.In addition to that my mom bought me my first pair of skates at the age of 4 where she taught me how to "old skool skate" in our culdesac where we lived which is how she learned. What made it even more fun is that we had a hill that lead to the culdesac which brought me to climax each time I would decline. Imagine being that free as a kid, blowing in the wind. Ultimately, my love for skating grew over the years and has not dwindled. </p>
+        </section>
+        #Updating file
+        <section></section>
+        <h1 id="Boxing">Boxing</h1>
+        <p>Boxing is a sport that is often overlooked due to its stigma, especially for women. Most people only think of <a href="https://en.wikipedia.org/wiki/Rocky_(franchise)">Rocky</a> movies when they hear the word boxing. Quite frankly, I have never completely watched any of the Rocky Films. I beleive boxing had its revolution again in recent years when they released the movie <a href="https://en.wikipedia.org/wiki/Creed_(film)">Creed.</a></p>
+        </section>
+        -- Update with external links
+        <section>
+        <h2>Boxing Interest</h2>
+        <p> I took a like for the sport in the year of 2019. My work life school balance was stressful and my personal life was being hit with so many obstacles that I had become overwhelmed. One day at work, I randomly got the idea to start boxing as I thought it would aid in my conquering my total health (mentally and physically).So I began my research and coinidentally there was a gym up the street from where I stayed. Later that week I went to the gym to inquire about classes and they won me over right away. I did it for about two years consecutively until my trainer went pro and I achieved my goals while there. To this day, I still send them referrals and highly recommend women take part in this sport. </p>
+        </section>
+        -- Updated with correct spacing
+        -- Updated headers iwth correct number
+        <header>
+            <h2 id="More About Me">More About Me</h2>
+          </header>
+          
+          <section>
+            <nav>
+              <ul>
+                <li><a href="https://en.wikipedia.org/wiki/Atlanta">Born</a></li>
+                <li><a href="https://www.linkedin.com">Career</a></li>
+              </ul>
+            </nav>
+            #Add section for layout
+          <section>
+            <h1 id="Connect With Me">Let's Connect!</h1>
+            <form method="post" action="send_mail.php">
+                <p>
+                    <label> First and Last Name
+                    <input type="email" name="email_address">
+                    </label>
+                </p>
+                <p>
+                    <label>Comments
+                        <textarea name="comments" maxlength="400"></textarea>
+                    </label>
+                </p>
+                <p><button>Submit!</button></p>
+            </form>
+          </section>
+          <nav>
+            <a href="https://www.facebook.com">Facebook</a>|
+            <a href="https://twitter.com"> Twitter</a>|
+            <a href="https://www.instagram.com">Instagram</a>|
+            <a href="https://www.linkedin.com">LinkedIn</a>
+          </nav>
+          --Save changes
+          <footer>
+            <h1 id="Page End"></h1>
+            <p>Creator: Kyla Scruggs</p>
+          </footer>
+          --Made Corrections to Internal Links
